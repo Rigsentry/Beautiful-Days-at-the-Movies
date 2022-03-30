@@ -1,0 +1,8 @@
+C:\work-not-shared\2022\CodeChallenge\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\bin\Debug\Beautiful-Days-at-the-Movies.exe.config
+C:\work-not-shared\2022\CodeChallenge\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\bin\Debug\Beautiful-Days-at-the-Movies.exe
+C:\work-not-shared\2022\CodeChallenge\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\bin\Debug\Beautiful-Days-at-the-Movies.pdb
+C:\work-not-shared\2022\CodeChallenge\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\obj\Debug\Beautiful-Days-at-the-Movies.csproj.AssemblyReference.cache
+C:\work-not-shared\2022\CodeChallenge\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\obj\Debug\Beautiful-Days-at-the-Movies.csproj.SuggestedBindingRedirects.cache
+C:\work-not-shared\2022\CodeChallenge\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\obj\Debug\Beautiful-Days-at-the-Movies.csproj.CoreCompileInputs.cache
+C:\work-not-shared\2022\CodeChallenge\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\obj\Debug\Beautiful-Days-at-the-Movies.exe
+C:\work-not-shared\2022\CodeChallenge\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\Beautiful-Days-at-the-Movies\obj\Debug\Beautiful-Days-at-the-Movies.pdb
